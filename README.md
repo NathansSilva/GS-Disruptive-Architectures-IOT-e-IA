@@ -54,8 +54,6 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
 
 ## Link de vídeo demonstração
 
-Adicione o link para assistir ao vídeo do projeto funcionando.
-
 [Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
 
 
