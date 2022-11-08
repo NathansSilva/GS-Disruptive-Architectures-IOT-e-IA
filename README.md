@@ -28,12 +28,12 @@ Circuito questão 1
 Para rodar
 Questão 1:
 Caso queira rodar fisicamente:
-• Arduíno/n
-• 2 (dois) Sensores ultrassônicos;
-• 2 (dois) LEDs vermelhos;
-• 2 (dois) LEDs verdes
-• 1 (um) Display LCD (16x2).
-• 1 (um) Potenciômetro
+• Arduíno  
+• 2 (dois) Sensores ultrassônicos;  
+• 2 (dois) LEDs vermelhos;  
+• 2 (dois) LEDs verdes  
+• 1 (um) Display LCD (16x2).  
+• 1 (um) Potenciômetro  
 [Link documentação arduino](https://docs.arduino.cc)
 
 Virtualmente:
