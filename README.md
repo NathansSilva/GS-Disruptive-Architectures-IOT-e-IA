@@ -36,13 +36,8 @@ Caso queira rodar fisicamente:
 • 1 (um) Potenciômetro  
 [Link documentação arduino](https://docs.arduino.cc)
 
-Virtualmente:
+Virtualmente:  
 • Acesso a internet.
-
-
-##Imagem Circuito
-
-
 
 
 Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
