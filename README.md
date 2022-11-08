@@ -25,8 +25,8 @@ Circuito questão 1
 
 ## Como usar 
 
-Para rodar
-Questão 1:
+Para rodar  
+Questão 1  
 Caso queira rodar fisicamente:  
 • Arduíno  
 • 2 (dois) Sensores ultrassônicos;  
