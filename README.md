@@ -28,7 +28,7 @@ Circuito questão 1
 Para rodar
 Questão 1:
 Caso queira rodar fisicamente:
-• Arduíno
+• Arduíno/n
 • 2 (dois) Sensores ultrassônicos;
 • 2 (dois) LEDs vermelhos;
 • 2 (dois) LEDs verdes
