@@ -52,7 +52,23 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
 
 ## Link de vídeo demonstração
 
-[https://www.youtube.com/watch?v=kK5BM1z97gY)
+https://www.youtube.com/watch?v=kK5BM1z97gY
+
+
+Questão 2
+
+
+Fluxo1 - Gateway que recebe as informações das vagas via serial e envia (publisher) via protocolo MQTT.
+Simule o estacionamento com 2 vagas (vaga A e vaga B) utilize o node “inject”. O formato da mensagem
+dos sensores é:
+• Somente a vaga A disponível → envia “A”
+• Somente a vaga B disponível → envia “B”
+• Ambas as vagas disponíveis → envia “AB”
+• Nenhuma vaga disponível → envia “X”
+
+
+Fluxo2 - Dashboard que recebe (subscriber) os dados via protocolo MQTT e exibe o status em um
+Dashboard.
 
 ### Referências 
 
