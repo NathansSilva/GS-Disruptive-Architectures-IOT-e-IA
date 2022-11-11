@@ -27,7 +27,7 @@ Circuito questão 1
 
 ## Como usar 
 
-Para rodar
+Para rodar  
 [Link para o círcuito no Tinkercad](https://www.tinkercad.com/things/9JpD2BmMCuz?sharecode=L6xAuMO6RxDp7htNYe9JhjCB4pU5WoB-waB1R5NSyh0)  
 Questão 1  
 Caso queira rodar fisicamente:  
