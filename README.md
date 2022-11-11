@@ -19,8 +19,6 @@ Um dos grandes problemas do trânsito é encontrar uma vaga para estacionar. Bus
 
 Para isso, utilizamos o arduíno para desenvolver um sistema que auxilie a identificar quando um carro está estacionado na vaga e que indique por LEDs.
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
-
 ## Diagrama do projeto
 
 Circuito questão 1
