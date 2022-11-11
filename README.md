@@ -2,7 +2,12 @@
 
 # TAGE
 
-**nome dos alunos: Nathan Santana da Silva - 88517, TDSR ** 
+**nome dos alunos:   
+Arthur Henrique Toshiriro Sakamoto Santos - 86832  
+Gustavo de Cássio Vasselai – 88264  
+Izadora Amorim Santana – 88494  
+João Armando Alves Neto – 88255  
+Nathan Santana da Silva - 88517, 2TDSR ** 
 
 **Turma: 2TDSG & 2TDSR**
 
