@@ -55,7 +55,6 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
 
 [Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
 
-
 ### Referências 
 
 * Aulas de IOT.
