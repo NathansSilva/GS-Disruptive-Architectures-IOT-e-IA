@@ -52,7 +52,7 @@ Pode adicionar algum trecho de código, por exemplo para clonar esse repositóri
 
 ## Link de vídeo demonstração
 
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+[https://www.youtube.com/watch?v=kK5BM1z97gY)
 
 ### Referências 
 
