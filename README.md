@@ -2,7 +2,6 @@
 
 # TAGE
 
-**nome dos alunos:   
 Arthur Henrique Toshiriro Sakamoto Santos - 86832  
 Gustavo de Cássio Vasselai – 88264  
 Izadora Amorim Santana – 88494  
