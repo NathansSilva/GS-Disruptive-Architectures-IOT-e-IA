@@ -61,6 +61,7 @@ Questão 2
 Fluxo1 - Gateway que recebe as informações das vagas via serial e envia (publisher) via protocolo MQTT.
 Simule o estacionamento com 2 vagas (vaga A e vaga B) utilize o node “inject”. O formato da mensagem
 dos sensores é:
+
 • Somente a vaga A disponível → envia “A”
 • Somente a vaga B disponível → envia “B”
 • Ambas as vagas disponíveis → envia “AB”
