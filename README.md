@@ -63,8 +63,11 @@ Simule o estacionamento com 2 vagas (vaga A e vaga B) utilize o node “inject�
 dos sensores é:
 
 • Somente a vaga A disponível → envia “A”
+
 • Somente a vaga B disponível → envia “B”
+
 • Ambas as vagas disponíveis → envia “AB”
+
 • Nenhuma vaga disponível → envia “X”
 
 
