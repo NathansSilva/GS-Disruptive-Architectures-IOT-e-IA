@@ -76,6 +76,7 @@ Dashboard.
 
 ## Como usar
  É necessário a instalação do node.js
+ 
  É necessário o uso de Internet
  
  Abra o seu CMD e digite "node-red" e após um carregamento o endereço local para acesso irá aparecer.
